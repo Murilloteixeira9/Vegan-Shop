@@ -1,5 +1,7 @@
 🌱 Projeto de Design Responsivo para Agricultura Orgânica:
 
+link do Projeto: https://vegan-sh0p.netlify.app/****
+
 Este projeto é uma recriação de um design simples de site focado em promover a agricultura orgânica, com base em um layout criado no Figma. A proposta foi usar HTML e CSS para construir uma interface limpa, responsiva e visualmente agradável, com o objetivo principal de treinar minhas habilidades como desenvolvedor front-end. A página oferece uma experiência de navegação intuitiva, com ênfase no design sustentável e na visualização de práticas agrícolas ecológicas.
 
 A principal meta deste projeto é consolidar conceitos de estruturação de páginas com HTML e aplicar estilos eficientes e modernos com CSS.
